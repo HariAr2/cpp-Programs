@@ -92,3 +92,11 @@ Be open to feedback during the code review process. Address comments and suggest
 If you have questions or need assistance, feel free to contact the project maintainers via GitHub issues or other communication channels provided in the project's documentation.
 
 Thank you for contributing to our C++ project! Your efforts are valuable in improving our codebase and making it more robust and efficient.
+
+
+## Read this
+ - Hey folks, if you find this repository helpful, please consider supporting it!
+ - Your support helps us maintain and improve the codebase. 🚀
+ - Feel free to give it a star ⭐, contribute code, or spread the word!
+ - Thank you for being a part of our open-source community! 🙌
+
